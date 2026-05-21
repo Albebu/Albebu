@@ -6,7 +6,7 @@ Working day-to-day with Node.js, TypeScript and Next.js. Most interested in arch
 
 ## Currently building
 
-- **[Nature Shop](https://github.com/Albebu/nature-shop)** — e-commerce backend with NestJS, hexagonal architecture, Postgres and Terraform. A sandbox for going deeper into clean architecture and IaC practices I don't touch day-to-day.
+- **[Nature Shop](https://github.com/Albebu/Eva)** — An HTTP Framework dependency free seeking performance adn DX.
 
 ## Contact
 
