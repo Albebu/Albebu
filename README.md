@@ -11,4 +11,4 @@
 
   **Contact:** 
   - abellostabuiza@pm.me
-  - [Manfred profile](https://www.manfred.life/...)
+  - [Manfred profile]([https://www.manfred.life/...](https://www.getmanfred.com/perfil/1852a78a-e409-43d2-a5e3-31f51422feed))
