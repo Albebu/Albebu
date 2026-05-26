@@ -1,14 +1,14 @@
-# Alex Bellosta
+ ### Alex Bellosta
+  Backend-focused full-stack developer based in Barcelona.
 
-Backend-focused full-stack developer based in Barcelona.
+  Currently at NPro (e-commerce health platform): payments, auth,
+  shared libraries between 7 microservices. Interested in architecture,
+  application security, and performance — the decisions where today's
+  shortcut costs you for months.
+  
+  **Day-to-day:** Node.js · TypeScript · Next.js · Prisma · MySQL · K8s
+  **Currently learning:** Application security depth, observability
 
-Working day-to-day with Node.js, TypeScript and Next.js. Most interested in architecture, application security and performance — the parts where today's bad call costs you for months.
-
-## Currently building
-
-- **[Nature Shop](https://github.com/Albebu/Eva)** — An HTTP Framework dependency free seeking performance adn DX.
-
-## Contact
-
-- Email: abellostabuiza@pm.me
-- Manfred: [mnf.red/1852a78a-e409-43d2-a5e3-31f51422feed](https://www.getmanfred.com/perfil/1852a78a-e409-43d2-a5e3-31f51422feed)
+  **Contact:** 
+  - abellostabuiza@pm.me
+  - [Manfred profile](https://www.manfred.life/...)
