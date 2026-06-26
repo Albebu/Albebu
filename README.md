@@ -10,5 +10,5 @@
   **Currently learning:** Application security depth, observability
 
   **Contact:** 
-  - abellostabuiza@pm.me
+  - abellostabuiza@gmail.com
   - [Manfred Profile](https://www.getmanfred.com/perfil/1852a78a-e409-43d2-a5e3-31f51422feed)
